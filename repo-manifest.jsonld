@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.nxos/commit/6395a319705fa1ef40da2239f9cab050efb6734d",
       "git:hexsha": "6395a319705fa1ef40da2239f9cab050efb6734d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T13:49:41.329838+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.nxos/commit/3988c5692ec6dab0f74e34df0bfcc92a4ddc2b2b",
